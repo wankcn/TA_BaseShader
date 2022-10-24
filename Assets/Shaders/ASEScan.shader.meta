@@ -1,8 +1,9 @@
 fileFormatVersion: 2
-guid: 9a996e09973f63f449b3a6db947ee2a3
+guid: f745ff2af15e88c40b3716e9d7fed968
 ShaderImporter:
   externalObjects: {}
-  defaultTextures: []
+  defaultTextures:
+  - _FlowEmiss: {fileID: 2800000, guid: 74a683c49d0030045a0abdca9fa6100a, type: 3}
   nonModifiableTextures: []
   preprocessorOverride: 0
   userData: 

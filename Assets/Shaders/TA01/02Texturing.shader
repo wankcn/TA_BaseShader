@@ -34,7 +34,6 @@ Shader "Custom/Texturing" //Shader的真正名字  可以是路径式的格式
         */
         Pass 
         {
-            Cull [_CullMode]
             CGPROGRAM  // Shader代码从这里开始
             #pragma vertex vert //指定一个名为"vert"的函数为顶点Shader
             #pragma fragment frag //指定一个名为"frag"函数为片元Shader
